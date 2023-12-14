@@ -1,0 +1,4 @@
+0 left
+1 nopass
+2 right
+3 stop
